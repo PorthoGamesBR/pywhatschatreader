@@ -38,7 +38,7 @@ Para usar pywhatschatreader, siga estas etapas:
 - Guarde a localização do arquivo em uma variável
     ```filepath = "...\...\Grupo da Familia.txt"```
 - Siga os seguintes passos para gerar o objeto/dict
-    ````
+    ```
         def main():
             mensagens = ""
             with open_conversa(filepath):
@@ -48,18 +48,22 @@ Para usar pywhatschatreader, siga estas etapas:
 - Os dados estarão na variável ```mensagens```, com os dados de data,hora,nome de usuário e texto de cada mensagem separado
 
 Exemplo:
-    Considere uma conversa que eu comecei com um amigo chamado Guilherme (nome salvo na lista de contatos), e ele me mandou a seguinte mensagem:
-    "Essa mensagem vai ser processada pelo pywhatschatreader"
-    Se eu então usasse o método anterior na nossa conversa, poderia acessar essa mensagem do seguinte modo
-    ```
+Considere uma conversa que eu comecei com um amigo chamado Guilherme (nome salvo na lista de contatos), e ele me mandou a seguinte mensagem:
+    
+"Essa mensagem vai ser processada pelo pywhatschatreader"
+    
+Se eu então usasse o método anterior na nossa conversa, poderia acessar essa mensagem do seguinte modo
+    
+
     print(mensagens[0]['date-hour'])
     print(mensagens[0]['username'])
     print(mensagens[0]['text'])
 
+    Output:
     {'d':'09/01/2023','h':'19:43'}
     Guilherme
     Essa mensagem vai ser processada pelo pywhatschatreader
-    ```
+
 
 
 ## 📫 Contribuindo para pywhatschatreader
