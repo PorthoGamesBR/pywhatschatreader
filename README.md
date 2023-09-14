@@ -1,10 +1,10 @@
 # pywhatschatreader
 
-![GitHub repo size](https://img.shields.io/github/repo-size/PorthoGamesBR/pywhatschatreader?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/PorthoGamesBR/pywhatschatreader?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/PorthoGamesBR/pywhatschatreader?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/PorthoGamesBR/pywhatschatreader?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/PorthoGamesBR/pywhatschatreader?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/PorthoGamesBR/pywhatschatreader)
+![GitHub language count](https://img.shields.io/github/languages/count/PorthoGamesBR/pywhatschatreader)
+![GitHub forks](https://img.shields.io/github/forks/PorthoGamesBR/pywhatschatreader)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/PorthoGamesBR/pywhatschatreader)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/PorthoGamesBR/pywhatschatreader)
 
 > Módulo com funções para separar as mensagens e os dados em arquivos de conversas de whatsapp
 
